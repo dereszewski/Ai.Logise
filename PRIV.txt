@@ -1,0 +1,41 @@
+AI Bot – Privacy Policy
+
+1. Information We Collect
+The bot may collect and store the following types of data:
+- Messages sent to the bot (for functionality, moderation, and debugging).
+- User IDs, timestamps, and command usage.
+- Error logs and system activity related to bot performance.
+The bot does not intentionally collect sensitive personal information. Users should avoid sharing such data.
+
+2. How Your Data Is Used
+Data collected by the bot may be used for:
+- Responding to user commands.
+- Improving bot performance and accuracy.
+- Moderation, abuse prevention, and security.
+- Debugging or fixing issues.
+No data is sold, rented, or shared with third-party companies.
+
+3. Data Sharing
+Data may be shared only with:
+- Server moderators/administrators when necessary for safety or enforcement.
+- Bot developers for troubleshooting or improvement.
+The data will never be shared publicly or used for advertising.
+
+4. Data Retention
+- Logs may be stored temporarily for debugging and moderation.
+- Data may be deleted during updates, resets, or maintenance.
+- Long-term retention is minimized whenever possible.
+
+5. User Responsibility
+Users should avoid sending personal, private, or sensitive information to the bot.
+Any information voluntarily shared is done at the user's own risk.
+
+6. Security
+Reasonable measures are used to protect collected data, but no system is completely secure.
+The bot developers are not liable for data breaches caused by external factors.
+
+7. Children’s Privacy
+The bot is not designed for users under 13. Supervision is recommended for younger users in accordance with Discord’s guidelines.
+
+8. Changes to This Privacy Policy
+This policy may be updated at any time. Continued use of the bot means you accept the latest version.

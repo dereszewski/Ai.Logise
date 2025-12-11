@@ -1,0 +1,33 @@
+AI Bot – Terms of Service
+
+1. Acceptance of Terms
+By using this bot, you agree to these Terms of Service. If you do not agree, do not use the bot.
+
+2. Proper Use
+- Do not use the bot for illegal or malicious activities.
+- Do not attempt to exploit, damage, or overload the bot.
+- Do not use the bot to generate harmful, abusive, or explicit content.
+
+3. User Conduct
+- Hate speech, harassment, threats, or harmful behavior are prohibited.
+- Promoting violence, discrimination, or misinformation is not allowed.
+- Attempting to break, bypass, or manipulate the bot’s safety filters (“jailbreaking”) is forbidden and may result in a ban.
+
+4. Data & Privacy
+- The bot may log user messages for moderation, improvement, or debugging.
+- Do not share sensitive personal information.
+- The bot is not responsible for data users choose to share.
+
+5. Limitations
+- The bot may provide incorrect or incomplete information.
+- The bot does not provide professional, medical, legal, or financial advice.
+
+6. Enforcement
+Violations of these terms may result in warnings, timeouts, kicks, or bans.
+Moderators and bot developers have final authority over enforcement actions.
+
+7. Changes to Terms
+These terms may be updated at any time. Continued use of the bot means you accept the latest version.
+
+8. Disclaimer
+Use the bot at your own risk. The developers are not responsible for misuse or damages.
