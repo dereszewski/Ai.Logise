@@ -1,0 +1,7 @@
+*resetmindhistory - Reset your AI chat history
+*imagegen <prompt> - Generate an AI image (filtered)
+*shutdown [OWNER ONLY] - Shut down the bot
+*resetserver [OWNER ONLY] - Restart the bot
+*forceshutdown [OWNER ONLY] - Shutdown host
+*deletemessage <message_id> [OWNER ONLY] - Delete a message
+*aicommands - Show command list
