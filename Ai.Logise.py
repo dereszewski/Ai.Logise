@@ -422,3 +422,4 @@ async def on_message(message: discord.Message):
 if __name__ == "__main__":
     TOKEN = os.getenv("DISCORD_TOKEN") or "YOUR_TOKEN_HERE"
     bot.run(TOKEN)
+
