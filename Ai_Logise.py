@@ -342,7 +342,7 @@ async def imagegen(ctx: commands.Context, *, prompt: str):
         return
     # 3) build url and final check
     safe_prompt = urllib.parse.quote(prompt, safe='')
-    url = f"https://image.pollinations.ai/prompt/{safe_prompt}?height=1000&width=1000&enhance=true&nologo=true&model=lyriel-1.5-clean"
+    url = f"https://image.pollinations.ai/prompt/{safe_prompt}?height=1000&width=1000&enhance=true&nologo=true&model=lyriel-1.5-clean&safe=true"
     ban_detected_url, banned_phrase_url, ratio_url = is_banned_image(url)
     if ban_detected_url:
         await ctx.send(f"❌ Generated image link contains banned content. (matched: {banned_phrase_url} / score={ratio_url:.2f})")
@@ -422,5 +422,6 @@ async def on_message(message: discord.Message):
 if __name__ == "__main__":
     TOKEN = os.getenv("DISCORD_TOKEN") or "YOUR_TOKEN_HERE"
     bot.run(TOKEN)
+
 
 
